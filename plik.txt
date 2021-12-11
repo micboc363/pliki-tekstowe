@@ -1,0 +1,8 @@
+-------
+Autor: Bruce Eckel
+Tytul: Thinking in Java
+Rok: 2006
+-------
+Autor: Radoslaw Sokol
+Tytul: ABC ochrony przed wirusami
+Rok: 2004
